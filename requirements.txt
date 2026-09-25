@@ -1,7 +1,6 @@
 fastapi
-uvicorn[standard]
+uvicorn
 httpx
 beautifulsoup4
-python-telegram-bot
-playwright
+python-telegram-bot==20.7
 python-dotenv
